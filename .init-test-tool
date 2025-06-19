@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/emoji-tic-tac-toe-64142-0813bc62/emoji_tic_tac_toe"
+}
